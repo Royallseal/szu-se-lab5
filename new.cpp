@@ -10,5 +10,7 @@ int main() {
 
     cout << "xxj" << endl;
 
+    cout << "whj" << endl;
+
     return 0;
 }
