@@ -10,7 +10,7 @@ int main() {
 
     cout << "whj" << endl;
 
-    cout << "whj" << endl;
+    cout << "xxj" << endl;
 
     return 0;
 }
