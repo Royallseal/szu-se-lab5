@@ -8,7 +8,7 @@ int main() {
     int N;
     cin >> N;
 
-    
+    cout << "xxj" << endl;
 
     return 0;
 }
